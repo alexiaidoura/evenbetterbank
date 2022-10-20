@@ -17,3 +17,4 @@ To do:
 Nice to haves:
 * Figure out the last step to set UserContext. I'm close. I'll demo. 
 * Add API docs.
+* Remove secrets from Github
