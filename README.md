@@ -21,3 +21,6 @@ Nice to haves:
 * Add API docs.
 * Remove secrets from Github
 * Use roles -- regular bank customer vs admin who can see all accounts
+* Account types, such as checking vs savings accounts
+* Assignment of random account numbers to new accounts
+* User profile updates that are persistent
