@@ -24,3 +24,8 @@ Nice to haves:
 * Account types, such as checking vs savings accounts
 * Assignment of random account numbers to new accounts
 * User profile updates that are persistent
+* Add limit on overdrawing account
+* Add additional auth options
+* Add MFA
+* Allow user to change password
+* Don't store passwords in cleartext 
