@@ -11,7 +11,6 @@ Mongo-Express-React-Node app
 Basic bank functionality -- create user, log in, view balance, make deposit, make withdrawal, see all accounts 
 
 To do:
-* Remove extraneous files from github (the ones that were supposed to be in public, but were dupped out of public)
 * Basic log in works, but I want to limit access to other functions based on authentication
   * Ideally, I'd switch to Firebase log in or OAuth. I have started experimenting with both, but got confused with hosting in firebase vs mongodb cloud vs local.
   * Add log out.
