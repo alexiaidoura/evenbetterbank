@@ -5,7 +5,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB4d007bgtQXeugb3K82XoF9-SjfEjxVv4",
+  apiKey: "",
   authDomain: "evenbetterbank.firebaseapp.com",
   projectId: "evenbetterbank",
   storageBucket: "evenbetterbank.appspot.com",
